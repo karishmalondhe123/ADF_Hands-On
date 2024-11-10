@@ -1,0 +1,9 @@
+{
+	"name": "ADF-GitHub-1-KSL",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6eeaddef-d487-45d0-9a5a-5e37ab1023d8",
+		"tenantId": "d2d07926-0198-406d-abb2-1407d5fd3a77"
+	}
+}
